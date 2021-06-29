@@ -1,3 +1,5 @@
+![STK-20210527-WA0003](https://user-images.githubusercontent.com/80812572/123881322-9f77f180-d96e-11eb-9e7a-4f6548a23140.jpg)
+
 # USAGE
 ```
 git clone https://github.com/Boy-Tolkit/Lonte

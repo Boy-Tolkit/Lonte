@@ -16,3 +16,17 @@ python Lonte.py
 - Like Postingan
 - Email
 - Nomor Handphone
+
+# METODE CRACK
+- b-api
+- mbasic
+- mobile
+
+# SANDI OTOMOTIS
+- Nama123
+- Nama12345
+
+# SANDI MANUAL
+```
+- KOSONG
+```

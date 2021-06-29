@@ -30,3 +30,9 @@ python Lonte.py
 
 # SANDI MANUAL
 - [ ] _KOSONG_
+
+# TAMBAHAN
+- JIKA JARINGAN KALIAN JELEK JANGAN MEMAKAI SCRIPT INI PAHAM
+```
+ya uda segitu aja Njeng
+```

@@ -7,26 +7,24 @@ python Lonte.py
 ```
 
 # METODE LOGIN
-- Cookie
-- Token
+- [ ] _Cookie_
+- [ ] _Token_
 
 # MENU
-- Publik/Teman
-- Followers
-- Like Postingan
-- Email
-- Nomor Handphone
+- [ ] _Publik/Teman_
+- [ ] _Followers_
+- [ ] _Like Postingan_
+- [ ] _Email_
+- [ ] _Nomor Handphone_
 
 # METODE CRACK
-- b-api
-- mbasic
-- mobile
+- [ ] _b-api_
+- [ ] _mbasic_
+- [ ] _mobile_
 
 # SANDI OTOMOTIS
-- Nama123
-- Nama12345
+- [ ] _Nama123_
+- [ ] _Nama12345_
 
 # SANDI MANUAL
-```
-- KOSONG
-```
+- [ ] _KOSONG_
